@@ -1,13 +1,19 @@
 <?php
-$a = ['orange', 'banana', 'grapes', 'apple'];
+// $a = ['orange', 'banana', 'grapes', 'apple'];
 
-$b = ['carrot', 'potato'];
+// $b = ['carrot', 'potato'];
 
-$newArray = array_replace($a, $b);
+// $newArray = array_replace($a, $b);
 
 
-echo "<pre>";
-print_r($newArray);
-echo "</pre>";
+// echo "<pre>";
+// print_r($newArray);
+// echo "</pre>";
+
+//aray replace recursive
+
+ 
+
+
 
 ?>

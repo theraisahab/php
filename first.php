@@ -1,7 +1,10 @@
 <?php
 
-define(num, 100,);
+$x = "Avnish Rai";
+$x = 2500;
+echo $x . "<br>";
 
-echo num;
+var_dump($x);
+
 
 ?>

@@ -23,10 +23,10 @@ $age = array(
     "Name" => "Kapoor"
 );
 
-// echo $age["Avnish"]. "<br>";
-// echo $age["Anjali"]. "<br>";
-// echo $age["Tushar"]. "<br>";
-// echo $age["Allen"]. "<br>";
+echo $age["Avnish"]. "<br>";
+echo $age["Anjali"]. "<br>";
+echo $age["Tushar"]. "<br>";
+echo $age["Allen"]. "<br>";
 
 echo "<pre>";
 
@@ -40,5 +40,8 @@ echo $age['Tushar']. "<br>";
 echo $age['Name']. "<br>";
 
 print_r($age);
+
+
+
 
 ?>

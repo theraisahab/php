@@ -7,7 +7,7 @@ function test(){
 }
 test();
 
-echo "Variable x outside function : $x" ;
+echo  $x ;
 
 
 
